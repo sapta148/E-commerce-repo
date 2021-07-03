@@ -1,0 +1,38 @@
+html{
+	scroll-behavior: smooth;
+}
+.ccs-img{
+	width: 100px;
+	height:auto;
+}
+.hp{
+	background: #b22222;
+}
+.mjb{
+	width: 100px;
+	height:auto;
+}
+.xox: hover{
+	text-decoration: none;
+	background:white;
+}
+.mon{
+	background: #00FFFF	;
+	padding: 5px 0px 20px;
+}
+.koj{
+  background: #00008b	;
+}
+.poj{
+	color: #008b8b	;
+}
+.joj{
+	background: #fffff0;
+}
+.pol{
+	background:#87cefa;
+}
+.kl{
+	text-align: left;
+	padding-top: 10px;
+}
